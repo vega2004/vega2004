@@ -1,0 +1,63 @@
+<svg width="900" height="390" viewBox="0 0 900 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 600 14px 'Fira Code', monospace; fill: #8b949e; }
+    .text { font: 500 18px 'Fira Code', monospace; fill: #c9d1d9; }
+    .prompt { font: 600 18px 'Fira Code', monospace; fill: #00f7ff; }
+    .success { font: 600 18px 'Fira Code', monospace; fill: #3fb950; }
+    .warn { font: 600 18px 'Fira Code', monospace; fill: #f2cc60; }
+    .cursor { fill: #00f7ff; }
+  </style>
+
+  <rect x="20" y="20" width="860" height="350" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+
+  <rect x="20" y="20" width="860" height="45" rx="16" fill="#161b22"/>
+  <circle cx="50" cy="43" r="7" fill="#ff5f56"/>
+  <circle cx="75" cy="43" r="7" fill="#ffbd2e"/>
+  <circle cx="100" cy="43" r="7" fill="#27c93f"/>
+  <text x="350" y="48" class="title">alexander@software-lab: ~/clean-code</text>
+
+  <text x="55" y="100" class="prompt">alexander@dev:~$</text>
+
+  <clipPath id="cmdClip">
+    <rect x="240" y="78" width="0" height="30">
+      <animate attributeName="width" values="0;430;430;0" keyTimes="0;0.30;0.92;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+
+  <text x="240" y="100" class="text" clip-path="url(#cmdClip)">npm run build -- --clean --efficient</text>
+
+  <rect x="245" y="82" width="10" height="22" class="cursor">
+    <animate attributeName="x" values="245;670;670;245" keyTimes="0;0.30;0.92;1" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1;0;1" dur="0.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="55" y="145" class="text" opacity="0">
+    &gt; Inicializando pipeline de calidad...
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.32;0.34;0.92;1" dur="9s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="55" y="180" class="text" opacity="0">
+    &gt; Analizando arquitectura y dependencias...
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.42;0.44;0.92;1" dur="9s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="55" y="215" class="text" opacity="0">
+    &gt; Refactorizando lógica innecesaria...
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.52;0.54;0.92;1" dur="9s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="55" y="250" class="text" opacity="0">
+    &gt; Ejecutando pruebas y validaciones...
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.62;0.64;0.92;1" dur="9s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="55" y="290" class="success" opacity="0">
+    ✔ Build estable | Código limpio | Lógica clara
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.72;0.74;0.92;1" dur="9s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="55" y="330" class="warn" opacity="0">
+    [ DECISIÓN ] → [ DISCIPLINA ] → [ DETERMINACIÓN ]
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.80;0.82;0.92;1" dur="9s" repeatCount="indefinite"/>
+  </text>
+</svg>
