@@ -1,5 +1,6 @@
-<h1 align="center">Hola, soy Alexander Vega
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center">
+  Hola, soy Alexander Vega
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <h3 align="center">
@@ -14,6 +15,16 @@
   </em>
 </p>
 
+<div align="center">
+  <img src="./assets/terminal.svg" width="900" alt="Terminal animada de Alexander Vega" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DECISI%C3%93N-111111?style=for-the-badge&logo=target&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/DISCIPLINA-111111?style=for-the-badge&logo=codefactor&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/DETERMINACI%C3%93N-111111?style=for-the-badge&logo=rocket&logoColor=00F7FF" />
+</p>
+
 ---
 
 ## Sobre mí
@@ -22,6 +33,8 @@ Soy un desarrollador en formación apasionado por crear soluciones tecnológicas
 Me interesa el desarrollo web, backend, bases de datos, automatización y el aprendizaje constante de nuevas herramientas.
 
 Actualmente sigo fortaleciendo mis habilidades en tecnologías modernas para crear proyectos funcionales, limpios y escalables.
+
+Me gusta construir software con orden, propósito y disciplina, cuidando que cada línea de código aporte valor, claridad y eficiencia.
 
 ---
 
@@ -104,6 +117,36 @@ Actualmente sigo fortaleciendo mis habilidades en tecnologías modernas para cre
 
 ---
 
+## Filosofía de Desarrollo
+
+```txt
+while (true) {
+    decideWithPurpose();
+    codeWithDiscipline();
+    improveWithDetermination();
+}
+```
+
+```bash
+git add .
+git commit -m "build: clean code, clear logic and disciplined execution"
+git push origin main
+```
+
 <p align="center">
-  <strong>Siempre aprendiendo, siempre construyendo 🚀</strong>
+  <em>
+    El buen software no solo funciona: también se entiende, se mantiene y evoluciona.
+  </em>
 </p>
+
+---
+
+## Conecta conmigo
+
+<p align="left">
+  <a href="mailto:kevinvega27100414@gmail.com@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
