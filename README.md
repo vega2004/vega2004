@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Estudiante de 9.º cuatrimestre de Ingeniería en Desarrollo y Gestión de Software
+  Estudiante de 10.º cuatrimestre de Ingeniería en Desarrollo y Gestión de Software
 </h3>
 
 <p align="center">
